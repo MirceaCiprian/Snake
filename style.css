@@ -1,0 +1,26 @@
+.box
+{
+    display: inline;
+    background-color:antiquewhite;
+    width: 100px;
+    height: 100px;
+    flex-direction: row;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 22px;
+}
+
+.row {
+    justify-content: center;
+}
+
+.rowButtons {
+    display: inline;
+    justify-content: center;
+}
+
+.field{
+    width: 100px;
+}
